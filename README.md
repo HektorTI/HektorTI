@@ -1,7 +1,11 @@
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+&nbsp;&nbsp;&nbsp;
+
+
 # 💫 About Me:
 🔭 I have a degree in Hospitality Management from the University of Salford in Australia <br>where I lived for 5 years (2017-2022).<br><br>⚡ I am currently studying at the British School of Arts and <br>Technology studying Flutter and Ux UI.
 
-<p align="center">I <br> ❤️ solve great challenges using tech. <br> I am currently studying at the British School of Arts and <br>Technology studying Flutter and Ux UI.</p>&nbsp;
+<p align="center">I <br> I ❤️ solve great challenges using tech. <br> I am currently studying at the British School of Arts and <br>Technology studying Flutter and Ux UI.</p>&nbsp;
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/heitor21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/heitor-85038022b/) 
@@ -18,3 +22,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
