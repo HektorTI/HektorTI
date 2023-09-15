@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd"/>
+<img align="center" style="margin-bottom:100px" width=100% src="https://www.virtualizationhowto.com/wp-content/uploads/2014/10/hackertyper01.png"/>
 &nbsp;&nbsp;&nbsp;
 
 
