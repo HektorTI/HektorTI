@@ -4,7 +4,7 @@
 <p align="center"> <br> I ❤️ solve great challenges using tech. <br> The choices we make not the chances we take determine our destiny.</p>&nbsp;
 
 
-# 💫 About Me:
+# 🙇🏻‍♂️ About Me:
 🔭 I have a degree in Hospitality Management from the University of Salford in Australia <br>where I lived for 5 years (2017-2022).<br><br>⚡ I am currently studying at the British School of Arts and <br>Technology Flutter and Ux/UI.<br><br>🎨 I am one of those who helped create the community at the British School of Arts and Technology (EBAC) with around 2,000 students and I am Admin of the Ux/UI Group. You can access it via the discord link below.
 
 ## 🌐 Socials:
