@@ -1,6 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Heitor;I'm+34+years+old;I'm+from+Brazil;I am+Studying+Ux/UI+Mobile Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Heitor;I'm+34+years+old;I'm+from+Brazil;I'm+Studying+Ux/UI+Mobile Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/HektorTI/HektorTI/assets/142464152/b5abc6b1-4127-4105-8302-b9f3d70b0dd6"/>
 &nbsp;&nbsp;&nbsp;
