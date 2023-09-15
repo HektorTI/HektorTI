@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=98FB98&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Heitor+de+Camargo+Azevedo;I'm+34+years+old;I'm+from+Brazil;I+Studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="center"> <br> I ❤️ solve great challenges using tech. <br> I am currently studying at the British School of Arts and <br>Technology studying Flutter and Ux UI.</p>&nbsp;
+<p align="center"> <br> I ❤️ solve great challenges using tech. <br> The choices we make not the chances we take determine our destiny</p>&nbsp;
 
 
 # 💫 About Me:
