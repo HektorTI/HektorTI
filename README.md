@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I have a degree in Hospitality Management from the University of Salford in Australia <br>where I lived for 5 years (2017-2022).<br><br>⚡ I am currently studying at the British School of Arts and <br>Technology Flutter and Ux/UI.
+🔭 I have a degree in Hospitality Management from the University of Salford in Australia <br>where I lived for 5 years (2017-2022).<br><br>⚡ I am currently studying at the British School of Arts and <br>Technology Flutter and Ux/UI.<br><br>🎨 I am one of the creators and administrators of the Escola Britanica (EBAC) group with around 2,000 students and I am Admin of the Ux/UI Group. You can access it via the discord link below.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rRwU8dd8Cs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-85038022b/) 
