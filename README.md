@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I have a degree in Hospitality Management from the University of Salford in Australia <br>where I lived for 5 years (2017-2022).<br><br>⚡ I am currently studying at the British School of Arts and <br>Technology studying Flutter and Ux UI.
 
+<p align="center">I ❤️ solve great challenges using tech. <br><br> I am currently studying at the British School of Arts and <br>Technology studying Flutter and Ux UI.</p>&nbsp;
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/heitor21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/heitor-85038022b/) 
