@@ -1,9 +1,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Heitor+de+Camargo+Azevedo;I'm+34+years+old;I'm+from+Brazil;I+Studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
- <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/HektorTI/HektorTI/assets/142464152/5755acce-98b9-4621-a0c0-3a0972830ce0"/>
+ <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/HektorTI/HektorTI/assets/142464152/3a5a755a-3f78-4af6-9d14-21ea785f3ebc"/>
 &nbsp;&nbsp;&nbsp; 
 
+![MGitImage](https://github.com/HektorTI/HektorTI/assets/142464152/3a5a755a-3f78-4af6-9d14-21ea785f3ebc)
 
 
 # 💫 About Me:
