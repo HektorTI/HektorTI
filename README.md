@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Heitor+de+Camargo+Azevedo;I'm+34+years+old;I'm+from+Brazil;I+Studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/HektorTI/HektorTI/assets/142464152/b5abc6b1-4127-4105-8302-b9f3d70b0dd6"/>
+<img align="center" style="margin-bottom:100px" width=100% src="https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2.jpg"/>
 &nbsp;&nbsp;&nbsp;
 
 
