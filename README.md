@@ -4,9 +4,6 @@
  <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/HektorTI/HektorTI/assets/142464152/3a5a755a-3f78-4af6-9d14-21ea785f3ebc"/>
 &nbsp;&nbsp;&nbsp; 
 
-![MGitImage](https://github.com/HektorTI/HektorTI/assets/142464152/3a5a755a-3f78-4af6-9d14-21ea785f3ebc)
-
-
 # 💫 About Me:
 🔭 I have a degree in Hospitality Management from the University of Salford in Australia <br>where I lived for 5 years (2017-2022).<br><br>⚡ I am currently studying at the British School of Arts and <br>Technology studying Flutter and Ux UI.
 
