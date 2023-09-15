@@ -1,6 +1,5 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/HektorTI/HektorTI/assets/142464152/d694991f-bbf3-4f6f-846c-f6685cbbea42"/>
+<img align="center" style="margin-bottom:100px" width=100% src="[https://github.com/HektorTI/HektorTI/assets/142464152/d694991f-bbf3-4f6f-846c-f6685cbbea42](https://github.com/HektorTI/HektorTI/assets/142464152/b5abc6b1-4127-4105-8302-b9f3d70b0dd6)"/>
 &nbsp;&nbsp;&nbsp;
-
 
 
 # 💫 About Me:
