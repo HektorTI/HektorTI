@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="![Hi Hacker Image](https://github.com/HektorTI/HektorTI/assets/142464152/d694991f-bbf3-4f6f-846c-f6685cbbea42)"/>
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/HektorTI/HektorTI/assets/142464152/d694991f-bbf3-4f6f-846c-f6685cbbea42"/>
 &nbsp;&nbsp;&nbsp;
 
 
