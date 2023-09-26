@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90EE90&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Heitor+de+Camargo+Azevedo;I'm+34+years+old;I'm+from+Brazil;I+Studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center"> <br> I ❤️ solve great challenges using tech. <br> People may not remember what you said, but they will remember how you made them feel.</p>&nbsp;
